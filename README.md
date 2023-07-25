@@ -1,4 +1,4 @@
-# 🏆 Java Exercises
+# ☕ Java Exercises
 ¡Bienvenido a mi repositorio de Ejercicios de Java! Aquí encontrarás una colección de ejercicios progresivos, diseñados para fortalecer tus habilidades en programación Java desde conceptos fundamentales como bucles y condicionales, hasta el manejo de excepciones.
 
 ## 💫Objetivo
